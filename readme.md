@@ -1,0 +1,3 @@
+ERC20 Token Smart Contract Address
+- 0x6B7Df0E8FB6F1c3294e6eeDD6f540b61435709D2
+- etherscan: https://goerli.etherscan.io/address/0x292e43333b43b424574bf8e546a895445fc04af4e42fc401e71bbb76e668d838
